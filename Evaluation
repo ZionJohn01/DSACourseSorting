@@ -1,0 +1,4 @@
+Assuming that there are n courses stored in the data structure the loop will then loop n times. The worst-case scenario would provide a time complexity of O(n). The pseudocode also does not involve any big memory-demanding operations. The memory used will depend entirely upon the file that is used. The space complexity should also remain O(n). 
+One of the main advantages of using a vector is the low memory usage and the ability to sort it. A big disadvantage is when one goes to insert or remove from the vector it increases the time complexity.
+An advantage of using a hash table is that O(1) is usually the time complexity when it comes to inserting or removing. A disadvantage of hash tables is that it is not as easy to maintain the order of course in one because of the structure of a hash table.
+Trees can be easily searched through which could be a big up but the time complexity is naturally higher than the other two options.
